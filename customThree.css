@@ -1,0 +1,94 @@
+.purple {
+  width: 100%;
+  height: 100px;
+  background: purple;
+  margin: 0 auto ;
+}
+
+.red {
+  background: red;
+  margin-left: 10%;
+  margin-right: 10%;
+  height: 900px;
+}
+
+.blue {
+  width: 50%;
+  height: 200px;
+  background: blue;
+  position: absolute;
+  left:25%;
+  top:200px;
+}
+.blue2 {
+  width: 50%;
+  height: 200px;
+  background: blue;
+  position: absolute;
+  left:25%;
+  top:450px;
+}
+.blue3 {
+  width: 50%;
+  height: 200px;
+  background: blue;
+  position: absolute;
+  left:25%;
+  top:700px;
+}
+.yellow {
+  width: 10%;
+  height: 10%;
+  background: yellow;
+  position:absolute;
+  left:27%;
+  top:225px;
+}
+.yellow2 {
+  width: 10%;
+  height: 10%;
+  background: yellow;
+  position:absolute;
+  left:27%;
+  top:475px;
+}
+.yellow3 {
+  width: 10%;
+  height: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  background: yellow;
+  position:absolute;
+  left:27%;
+  top:725px;
+}
+.green {
+  width: 30%;
+  height: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  background: green;
+  position:absolute;
+  left:40%;
+  top:225px;
+}
+.green2 {
+  width: 30%;
+  height: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  background: green;
+  position:absolute;
+  left:40%;
+  top:475px;
+}
+.green3 {
+  width: 30%;
+  height: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  background: green;
+  position:absolute;
+  left:40%;
+  top:725px;
+}

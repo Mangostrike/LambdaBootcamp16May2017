@@ -1,0 +1,75 @@
+/* This is where i put my css code */
+
+.body{
+  }
+.navbar{
+  position: absolute;
+  width: 100%;
+}
+.navbar-list{
+  text-decoration-color: white;
+  }
+.navbar-list li{
+ color: white;
+ list-style: none;
+ float: right;
+ margin: 0px 0px 0px 0px;
+ padding: 0px 20px;
+}
+#startbootstrap{
+  color: white;
+  list-style: none;
+  float: left;
+}
+#astronautphoto{
+  Height: 600px;
+  width: 100%;
+  float: center;
+
+}
+
+#jumbotrontext {
+  position: absolute;
+  float: center;
+  color: white;
+  margin: 100px 0px;
+  padding: 0px 25%;
+}
+#jumbotrontext h1{
+  color: white;
+  font-size: 500%;
+  font-weight: bold;
+}
+#jumbotrontext h2{
+  color: white;
+  font-size: 25px;
+}
+#jumbotrontext h3{
+  color: white;
+  font-size: 15px;
+}
+#bodytext{
+
+  float: center;
+  padding: 5% 25%;
+  font-size: 20px;
+}
+#section{
+  color: black;
+  font-weight: bold;
+}
+#quote{
+  color: #bdbdbd;
+  border-left-style: solid;
+  border-left-width: medium;
+  border-left-color: #bdbdbd;
+  padding: 15px;
+}
+#forsale {
+  width: 100%;
+}
+#caption{
+  color: #bdbdbd;
+  padding: 0px 50px;
+  font-size: 15px;
+}
